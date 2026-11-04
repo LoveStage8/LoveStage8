@@ -21,13 +21,3 @@ Soy un apasionado del desarrollo de software, la administración de sistemas y l
   * **Mi rol:** Desarrollo, mantenimiento de lógica de negocio, consultas y optimizaciòn de procesos 
 ---
 
-### 🛠️ Lenguajes y Tecnologías
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=gnubg&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
