@@ -23,5 +23,5 @@ Soy un apasionado del desarrollo de software, la administración de sistemas y l
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhoxander&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhoxander&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
