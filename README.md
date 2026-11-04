@@ -5,7 +5,6 @@ Soy un apasionado del desarrollo de software, la administración de sistemas y l
 ---
 
 ### 🛠️ Tecnologías y Arquitecturas
-
 * **Backend Moderno y Empresarial:** Java, PHP, Laravel, Node.js
 * **Frameworks y Librerías:** Laravel, Node.js
 * **Sistemas Legados y Mainframes:** COBOL
